@@ -1,6 +1,6 @@
 # ISC-S1
 
-Glosario
+Glosario: Lindsay Palma
 
 **1 Hardware**
 
