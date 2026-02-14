@@ -14,7 +14,7 @@ Es el soporte lógico e inmaterial que permite que el hardware realice tareas es
 
 Es una categoría específica de software que tiene como propósito controlar directamente el hardware de un dispositivo. Se almacena en memorias no volátiles y actúa como el puente de comunicación más bajo entre el hardware físico y el sistema operativo. A diferencia del software común, el firmware no suele ser modificado por el usuario final y es crítico para el arranque del equipo.
 
-** 4 BIOS / UEFI**
+**4 BIOS / UEFI**
 
 Es el primer programa que se ejecuta al encender una computadora.
  * BIOS (Basic Input/Output System): El estándar antiguo que inicializa el hardware y busca el sistema operativo.
